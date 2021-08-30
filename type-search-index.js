@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.feljtech.istudybucket.controller","l":"HelloController"},{"p":"com.feljtech.istudybucket","l":"IstudybucketApplication"}]
