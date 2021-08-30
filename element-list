@@ -1,2 +1,7 @@
 com.feljtech.istudybucket
 com.feljtech.istudybucket.controller
+com.feljtech.istudybucket.entity
+com.feljtech.istudybucket.form
+com.feljtech.istudybucket.repository
+com.feljtech.istudybucket.service
+com.feljtech.istudybucket.service.impl

@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.feljtech.istudybucket"},{"l":"com.feljtech.istudybucket.controller"}]
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.feljtech.istudybucket"},{"l":"com.feljtech.istudybucket.controller"},{"l":"com.feljtech.istudybucket.entity"},{"l":"com.feljtech.istudybucket.form"},{"l":"com.feljtech.istudybucket.repository"},{"l":"com.feljtech.istudybucket.service"},{"l":"com.feljtech.istudybucket.service.impl"}]
