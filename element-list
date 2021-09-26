@@ -1,7 +1,16 @@
 com.feljtech.istudybucket
+com.feljtech.istudybucket.config
 com.feljtech.istudybucket.controller
+com.feljtech.istudybucket.dto
+com.feljtech.istudybucket.dto.email
+com.feljtech.istudybucket.dto.request
 com.feljtech.istudybucket.entity
-com.feljtech.istudybucket.form
+com.feljtech.istudybucket.entity.composite
+com.feljtech.istudybucket.entity.relation
+com.feljtech.istudybucket.enums
+com.feljtech.istudybucket.excetion
+com.feljtech.istudybucket.mapper
 com.feljtech.istudybucket.repository
+com.feljtech.istudybucket.security.jwt
 com.feljtech.istudybucket.service
 com.feljtech.istudybucket.service.impl
